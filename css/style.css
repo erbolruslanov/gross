@@ -65,6 +65,7 @@ img {
   background: #F5F5F5;
 }
 .top-slider .slider-clip {
+  height: 100%;
   clip-path: circle(306px at center);
 }
 .top-slider .swiper-slide {
